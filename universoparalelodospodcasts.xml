@@ -7,9 +7,54 @@
     <description>Podcast Paralelo ao Mundo Real</description>
     <item>
       <title>UPP 01 - Purtugues</title>
-      <guid>https://archive.org/download/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3</guid>
-      <enclosure url="https://archive.org/download/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3" type="audio/mpeg"/>
+      <guid>https://ia601506.us.archive.org/2/items/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3</guid>
+      <enclosure url="https://ia601506.us.archive.org/2/items/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3" type="audio/mpeg"/>
       <pubDate>Sat, 15 Dec 2018 18:00:00 -0200</pubDate>
     </item>
   </channel>
+</rss>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<itunes:category text="Comedy"/>
+<itunes:category text="Games &amp; Hobbies"/>
+<itunes:explicit>YES</itunes:explicit>
+<itunes:keywords>upp,universo paralelo dos podcast,universo paralelo dos podcasts</itunes:keywords>
+<itunes:author>Universo Paralelo dos Podcasts</itunes:author>
+<webMaster>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</webMaster>
+<copyright>Todos os direitos reservados - Universo Paralelo dos Podcasts</copyright>
+<language>pt-br</language>
+<title>Universo Paralelo dos Podcasts</title>
+<link>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</link>
+<description>Esqueci a descrição paciência</description>
+<pubDate>Sat, 15 Dec 2018 18:00:00 -0300</pubDate>
+<itunes:owner>
+  <itunes:name>Universo Paralelo dos Podcasts</itunes:name>
+  <itunes:email>kratoscheky@gmail.com</itunes:email>
+</itunes:owner>
+<item>
+<author>Universo Paralelo dos Podcasts</author>
+<title>UPP 01 - Purtugues</title>
+  <description>Eae pessoal! Beleza? Aqui e o Mauricio Soares. E este e o primeiro podcast do "Universo Paralelo dos Podcast". Neste podcast vamos falar com um português abrasileirado que vai nos responder perguntas e nos ensinar o bom e velho "purtugues".</description>
+  <link>https://ia601506.us.archive.org/2/items/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3</link>
+  <pubDate>Sat, 15 Dec 2018 17:00:00 -0300</pubDate>
+  <itunes:duration>00:50:30</itunes:duration>
+  <itunes:keywords>Portugal,Portugues,Purtugues</itunes:keywords>
+  <itunes:summary>Eae pessoal! Beleza? Aqui e o Mauricio Soares. E este e o primeiro podcast do "Universo Paralelo dos Podcast". Neste podcast vamos falar com um português abrasileirado que vai nos responder perguntas e nos ensinar o bom e velho "purtugues".</itunes:summary>
+  <itunes:subtitle>Eae pessoal! Beleza? Aqui e o Mauricio Soares. E este e o primeiro podcast do "Universo Paralelo dos Podcast". Neste podcast vamos falar com um português abrasileirado que vai nos responder perguntas e nos ensinar o bom e velho "purtugues".</itunes:subtitle>
+  <itunes:author>Universo Paralelo dos Podcasts</itunes:author>
+  <itunes:explicit>YES</itunes:explicit>
+  <itunes:block>no</itunes:block>
+  <enclosure url="https://ia601506.us.archive.org/2/items/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3" type="audio/mpeg"/>
+</item>
+</channel>
 </rss>

@@ -1,0 +1,16 @@
+https://archive.org/download/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Universo Paralelo dos Podcasts</title>
+    <pubDate>Sat, 15 Dec 2018 17:50:00 -0200</pubDate>
+    <link>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</link>
+    <description>Podcast Paralelo ao Mundo Real</description>
+    <item>
+      <title>UPP 01 - Purtugues</title>
+      <guid>https://archive.org/download/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3</guid>
+      <enclosure url="https://archive.org/download/UniversoParalelo01/Universo%20Paralelo%20%2301.mp3" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Dec 2018 18:00:00 -0200</pubDate>
+    </item>
+  </channel>
+</rss>

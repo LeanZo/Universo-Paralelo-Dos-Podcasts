@@ -12,7 +12,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <itunes:category text="Games &amp; Hobbies"/>
 <itunes:explicit>YES</itunes:explicit>
 <itunes:keywords>upp,universo paralelo dos podcast,universo paralelo dos podcasts</itunes:keywords>
-<itunes:image href="https://lh5.googleusercontent.com/_TeS9TUiLPf2R7Brw0kuAibROeDcoGM_DVXmhJYyCOHeKggicrmA9PfjbP2tDNj-3WzQg5kUe-JK-B-rHEhN=w1366-h695-rw"/>
+<itunes:image href="https://ia601503.us.archive.org/12/items/kratoscheky_gmail_UPP/UPP.png"/>
 <itunes:author>Universo Paralelo dos Podcasts</itunes:author>
 <webMaster>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</webMaster>
 <copyright>Todos os direitos reservados, 2018 Universo Paralelo dos Podcasts</copyright>
@@ -28,7 +28,7 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <image>
   <title>Universo Paralelo dos Podcasts</title>
   <link>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</link>
-  <url>https://lh5.googleusercontent.com/_TeS9TUiLPf2R7Brw0kuAibROeDcoGM_DVXmhJYyCOHeKggicrmA9PfjbP2tDNj-3WzQg5kUe-JK-B-rHEhN=w1366-h695-rw</url>
+  <url>https://ia601503.us.archive.org/12/items/kratoscheky_gmail_UPP/UPP.png</url>
 </image>
 <item>
 <author>Universo Paralelo dos Podcasts</author>
@@ -43,13 +43,8 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <itunes:author>Universo Paralelo dos Podcasts</itunes:author>
   <itunes:explicit>YES</itunes:explicit>
   <itunes:block>no</itunes:block>
-  <itunes:image href="https://lh5.googleusercontent.com/YfzRAI8uGMXNxlSiq8KkDOiqUm3PhDLC6KztCDIQZOn8qvp0hr8pYUdsw_8z3jAdbMUjuYKUt9tmF9YkYerV=w1366-h695-rw"/>
-  <image>
-  <title>UPP 01 - Purtugues</title>
-  <link>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</link>
-  <url>https://lh5.googleusercontent.com/YfzRAI8uGMXNxlSiq8KkDOiqUm3PhDLC6KztCDIQZOn8qvp0hr8pYUdsw_8z3jAdbMUjuYKUt9tmF9YkYerV=w1366-h695-rw</url>
-</image>
   <enclosure url="https://ia601508.us.archive.org/5/items/UPP01/UniversoParalelo01.mp3" type="audio/mpeg" />
+  <guid>https://ia601508.us.archive.org/5/items/UPP01/UniversoParalelo01.mp3</guid>
 </item>
 </channel>
 </rss>

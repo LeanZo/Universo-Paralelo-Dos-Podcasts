@@ -43,6 +43,12 @@ xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <itunes:author>Universo Paralelo dos Podcasts</itunes:author>
   <itunes:explicit>YES</itunes:explicit>
   <itunes:block>no</itunes:block>
+  <itunes:image href="https://i1.wp.com/lojasburiti.com.br/wp-content/uploads/2017/05/MUGITEC-JANELA-CORRER-ALUM-2F-100X100-CANELADO.png"/>
+  <image>
+  <title>UPP 01 - Purtugues</title>
+  <link>https://leanzo.github.io/Universo-Paralelo-Dos-Podcasts</link>
+  <url>https://i1.wp.com/lojasburiti.com.br/wp-content/uploads/2017/05/MUGITEC-JANELA-CORRER-ALUM-2F-100X100-CANELADO.png</url>
+</image>
   <enclosure url="https://ia601508.us.archive.org/5/items/UPP01/UniversoParalelo01.mp3" type="audio/mpeg" />
   <guid>https://ia601508.us.archive.org/5/items/UPP01/UniversoParalelo01.mp3</guid>
 </item>

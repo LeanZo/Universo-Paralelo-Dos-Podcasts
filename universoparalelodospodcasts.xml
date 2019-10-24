@@ -1,9 +1,5 @@
-<html>
-  <head>
-  <script>
-    window.location.href = "https://anchor.fm/s/fc413f0/podcast/rss";
-    </script>
-  </head>
-  <body>
-    </body>
-</html>
+<redirect>
+<newLocation>
+https://anchor.fm/s/fc413f0/podcast/rss
+</newLocation>
+</redirect>
